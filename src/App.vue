@@ -8,7 +8,7 @@
 
   <v-toolbar fixed app light clipped-left color="primary" class="elevation-2">
     <v-toolbar-side-icon @click="drawer = !drawer"  class="white--text"></v-toolbar-side-icon>
-    <v-toolbar-title class="white--text">News App</v-toolbar-title>
+    <v-toolbar-title class="white--text">News App <span>By Eugene </span></v-toolbar-title>
   </v-toolbar>
 
   <v-content>
@@ -26,7 +26,7 @@
             Made with
             <v-icon class="red--text">favorite</v-icon>
             by <a class="white--text" href="https://vuetifyjs.com" target="_blank">Vuetify</a>
-            and <a class="white--text" href="https://github.com/rachidsakara" target="_blank">Rachid Sakara</a>
+            and <a class="white--text" href="https://github.com/Eugeneiregi" target="_blank">Eugene Iregi</a>
           </div>
         </v-flex>
       </v-layout>
@@ -53,7 +53,7 @@ export default {
   data() {
     return {
       drawer: true, // true to show/hide the side navigation drawer 
-      api_key:'Put_Your_API_Key_Here',
+      api_key:'40238d06fc8d4a2c825877e15f8d9e03',
       articles: [],
       errors: [] 
     }
