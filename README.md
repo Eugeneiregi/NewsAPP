@@ -6,13 +6,13 @@
 
 ## Project Overview
 
-![News Application Rachid Sakara](https://i.ibb.co/dc56dbh/Feature-Article.png?raw=true)
+![News Application Eugene Iregi](https://i.ibb.co/dc56dbh/Feature-Article.png?raw=true)
 
-![News Application Rachid Sakara](https://i.ibb.co/zNggXk3/Default.png?raw=true)
+![News Application Eugene Iregi](https://i.ibb.co/zNggXk3/Default.png?raw=true)
 
-![News Application Rachid Sakara](https://i.ibb.co/rd2RTDd/News-Application.png?raw=true)
+![News Application Eugene Iregi](https://i.ibb.co/rd2RTDd/News-Application.png?raw=true)
 
-![News Application Rachid Sakara](https://i.ibb.co/yWSP5Rz/Beautiful-News-Application-with-Vue-Js-and-Vuetify.png?raw=true)
+![News Application Eugene Iregi](https://i.ibb.co/yWSP5Rz/Beautiful-News-Application-with-Vue-Js-and-Vuetify.png?raw=true)
 
 
 ## Setup Your Free API Key
